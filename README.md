@@ -1,4 +1,4 @@
-# Good-pharmacist-<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -85,24 +85,29 @@
     </header>
     <div class="container" id="about">
         <h2>من أنا</h2>
-        <p>مرحباً! أنا أحمد جابر حسين، طالب بكلية الصيدلة، وأطمح إلى بناء مسيرة مهنية ناجحة. أهتم بالتعلم المستمر وتطوير مهاراتي.</p>
+        <p>مرحباً! أنا أحمد جابر حسين، طالب بكلية الصيدلة، وأطمح إلى تقديم استشارات طبية ومساعدة الآخرين في فهم صحتهم بشكل أفضل.</p>
     </div>
     <div class="container" id="services">
         <h2>خدماتي</h2>
         <div class="card">
-            <img src="https://via.placeholder.com/100" alt="خدمة 1">
-            <h3>التدريب الطبي</h3>
-            <p>تقديم خدمات تدريبية في مجال الصيدلة وقياس العلامات الحيوية.</p>
+            <img src="https://via.placeholder.com/100" alt="استشارات طبية">
+            <h3>استشارات طبية</h3>
+            <p>تقديم نصائح طبية موجهة لتحسين جودة الحياة الصحية.</p>
         </div>
         <div class="card">
-            <img src="https://via.placeholder.com/100" alt="خدمة 2">
-            <h3>استشارات صيدلانية</h3>
-            <p>تقديم النصائح والإرشادات في مجال الأدوية والمستحضرات الطبية.</p>
+            <img src="https://via.placeholder.com/100" alt="تداخلات دوائية">
+            <h3>تداخلات دوائية</h3>
+            <p>تحليل التفاعلات الدوائية لضمان الاستخدام الآمن للأدوية.</p>
+        </div>
+        <div class="card">
+            <img src="https://via.placeholder.com/100" alt="اعراض الأمراض الشائعة">
+            <h3>أعراض الأمراض الشائعة</h3>
+            <p>شرح الأعراض الأولية للأمراض الشائعة وكيفية التعامل معها.</p>
         </div>
     </div>
     <footer id="contact">
         <p>© 2024 جميع الحقوق محفوظة | أحمد جابر حسين</p>
-        <p>البريد الإلكتروني: yourname@example.com</p>
+        <p>البريد الإلكتروني: <a href="mailto:agobe808@gmail.com" style="color: #FFD700;">agobe808@gmail.com</a></p>
     </footer>
 </body>
 </html>
